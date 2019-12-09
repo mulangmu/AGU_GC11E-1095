@@ -1,8 +1,8 @@
 # GC11E-1095 - COULD WATER RESOURCES MANAGEMENT MEASURES MITIGATE FLOOD RISK IN LANCANG-MEKONG RIVER BASIN?
 ## Authors
-Yang Lang  School of Resource, Environment, and Earth Science , Yunnan University, Kunming, China
+Yang Lang  School of Resource, Environment, and Earth Science , Yunnan University, China
 
-Lifeng Luo  Department of Geography, Environment, and Spatial Sciences, Michigan State University, East Lansing, MI
+Lifeng Luo  Department of Geography, Environment, and Spatial Sciences, Michigan State University
 
 ## Abstract
 
